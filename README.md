@@ -5,3 +5,5 @@ Technologies used
 - HTML5
 - CSS3
 - Javascript  
+
+Link to the hosted site https://color-flipper-oa.netlify.app/
